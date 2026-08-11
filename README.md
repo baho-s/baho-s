@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Bahad%C4%B1r%20Sabanc%C4%B1&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineer%20%7C%20.NET%20Backend%20%7C%20IoT%20%7C%20AI%20%26%20RAG&descAlignY=57&descSize=18)
-
-### Building maintainable backend systems and connected IoT solutions
+<h1>Bahadır Sabancı</h1>
+<h3>Computer Engineer | .NET Backend & IoT Developer</h3>
+<p>Building maintainable backend systems and connected IoT solutions</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=baho-s&label=PROFILE+VIEWS&color=111827&style=for-the-badge)](https://github.com/baho-s)
 [![Followers](https://img.shields.io/github/followers/baho-s?label=FOLLOWERS&style=for-the-badge&color=111827&logo=github)](https://github.com/baho-s?tab=followers)
@@ -58,42 +58,6 @@ My current work also covers **battery-powered IoT communication, MQTT/LoRaWAN de
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=white)
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/baho-s/AdvancedSearch">AdvancedSearch</a></h3>
-      <p>AI-assisted e-commerce search backend built with Clean Architecture, CQRS/MediatR, PostgreSQL, pgvector and local LLM-based RAG.</p>
-      <p><code>.NET</code> <code>Clean Architecture</code> <code>CQRS</code> <code>PostgreSQL</code> <code>pgvector</code> <code>RAG</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/baho-s/SmartCityIotDemo-">Smart City IoT Demo</a></h3>
-      <p>Device-to-cloud telemetry demo with an MQTT device simulator, Mosquitto broker, ASP.NET Core API, SignalR and Docker.</p>
-      <p><code>.NET</code> <code>MQTT</code> <code>SignalR</code> <code>SQLite</code> <code>Docker</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/baho-s/LingoForge">LingoForge</a></h3>
-      <p>Full-stack language-learning platform with a layered .NET backend, CQRS, JWT authentication and a React/TypeScript client.</p>
-      <p><code>ASP.NET Core</code> <code>EF Core</code> <code>SQL Server</code> <code>JWT</code> <code>React</code> <code>TypeScript</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/baho-s/SmartOrderManagement">SmartOrderManagement</a></h3>
-      <p>Order management API demonstrating layered architecture, SOLID, validation, centralized exception handling and unit testing.</p>
-      <p><code>.NET 8</code> <code>EF Core</code> <code>SQL Server</code> <code>FluentValidation</code> <code>NUnit</code></p>
-    </td>
-  </tr>
-</table>
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=baho-s&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Bahadır Sabancı's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baho-s&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&exclude_repo=CSharpGL,CSharp-From-Zero-To-Hero,Smart-AutoClicker,AutoClicker,medisafe" alt="Most used languages" />
-</div>
-
 ## Connect
 
 <div align="center">
@@ -104,5 +68,3 @@ My current work also covers **battery-powered IoT communication, MQTT/LoRaWAN de
 [![GitHub](https://img.shields.io/badge/GitHub-baho--s-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baho-s)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=110&section=footer)
