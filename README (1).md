@@ -1,0 +1,108 @@
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Bahad%C4%B1r%20Sabanc%C4%B1&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineer%20%7C%20.NET%20Backend%20%7C%20IoT%20%7C%20AI%20%26%20RAG&descAlignY=57&descSize=18)
+
+### Building maintainable backend systems and connected IoT solutions
+
+[![Profile Views](https://komarev.com/ghpvc/?username=baho-s&label=PROFILE+VIEWS&color=111827&style=for-the-badge)](https://github.com/baho-s)
+[![Followers](https://img.shields.io/github/followers/baho-s?label=FOLLOWERS&style=for-the-badge&color=111827&logo=github)](https://github.com/baho-s?tab=followers)
+
+</div>
+
+## About
+
+I am a Computer Engineer focused on building maintainable and scalable backend systems with **C#, ASP.NET Core Web API, Clean Architecture, DDD, CQRS/MediatR and Entity Framework Core**. I design APIs around clear domain boundaries, testable application flows and pragmatic engineering trade-offs.
+
+My current work also covers **battery-powered IoT communication, MQTT/LoRaWAN device-to-cloud flows, real-time data delivery and AI-assisted search with RAG**. I enjoy connecting embedded data pipelines with reliable .NET services, PostgreSQL/pgvector and local LLM integrations.
+
+## Skills
+
+### Backend & Architecture
+
+![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111827?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=swagger&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-111827?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-111827?style=for-the-badge)
+![MediatR](https://img.shields.io/badge/MediatR-111827?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-111827?style=for-the-badge)
+
+### Data, Caching & AI
+
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-111827?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-111827?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white)
+
+### IoT & Real-Time Systems
+
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-111827?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-111827?style=for-the-badge&logo=mqtt&logoColor=white)
+![Eclipse Mosquitto](https://img.shields.io/badge/Eclipse_Mosquitto-111827?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-111827?style=for-the-badge)
+![Device Telemetry](https://img.shields.io/badge/Device_Telemetry-111827?style=for-the-badge)
+![Low-Power IoT](https://img.shields.io/badge/Low--Power_IoT-111827?style=for-the-badge)
+
+### DevOps & Frontend
+
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-111827?style=for-the-badge&logo=swagger&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=white)
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/baho-s/AdvancedSearch">AdvancedSearch</a></h3>
+      <p>AI-assisted e-commerce search backend built with Clean Architecture, CQRS/MediatR, PostgreSQL, pgvector and local LLM-based RAG.</p>
+      <p><code>.NET</code> <code>Clean Architecture</code> <code>CQRS</code> <code>PostgreSQL</code> <code>pgvector</code> <code>RAG</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/baho-s/SmartCityIotDemo-">Smart City IoT Demo</a></h3>
+      <p>Device-to-cloud telemetry demo with an MQTT device simulator, Mosquitto broker, ASP.NET Core API, SignalR and Docker.</p>
+      <p><code>.NET</code> <code>MQTT</code> <code>SignalR</code> <code>SQLite</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/baho-s/LingoForge">LingoForge</a></h3>
+      <p>Full-stack language-learning platform with a layered .NET backend, CQRS, JWT authentication and a React/TypeScript client.</p>
+      <p><code>ASP.NET Core</code> <code>EF Core</code> <code>SQL Server</code> <code>JWT</code> <code>React</code> <code>TypeScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/baho-s/SmartOrderManagement">SmartOrderManagement</a></h3>
+      <p>Order management API demonstrating layered architecture, SOLID, validation, centralized exception handling and unit testing.</p>
+      <p><code>.NET 8</code> <code>EF Core</code> <code>SQL Server</code> <code>FluentValidation</code> <code>NUnit</code></p>
+    </td>
+  </tr>
+</table>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=baho-s&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Bahadır Sabancı's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baho-s&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&exclude_repo=CSharpGL,CSharp-From-Zero-To-Hero,Smart-AutoClicker,AutoClicker,medisafe" alt="Most used languages" />
+</div>
+
+## Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-bahadirsabanci%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahadirsabanci@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bahad%C4%B1r_Sabanc%C4%B1-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahadirsabanci)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bahadir--sabanci.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bahadir-sabanci.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-baho--s-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baho-s)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=110&section=footer)
