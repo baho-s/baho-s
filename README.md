@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Bahadır Sabancı</h1>
-<h3>Computer Engineer | .NET Backend & IoT Developer</h3>
+<h3>Computer Engineer | .NET Backend Developer</h3>
 <p>Building maintainable backend systems and connected IoT solutions</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=baho-s&label=PROFILE+VIEWS&color=111827&style=for-the-badge)](https://github.com/baho-s)
